@@ -1,4 +1,25 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Emre Guzel
+* Created on: Feb 26 2025
 * This file contains the CSS for index.html
 */
+
+html {
+  font-size: 15px;
+}
+
+body {
+  font-family: "Atkinson Hyperlegible Mono", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  background: skyblue;
+  margin: 2rem;
+
+}
+
+.Calculate {
+  width: 30%;
+  text-align: center;
+  margin-top: 5vw;
+  margin-left: 36vw;
+}
