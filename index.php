@@ -44,6 +44,7 @@
             <span class="mdl-textfield__error">Input is not a number</span>
           <br />
           <!-- Accent-colored raised button with ripple -->
+          <br> <br>
           <button
             class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"
             type="submit"
@@ -51,6 +52,5 @@
             Calculate
           </button>
         </form>
-        <br />
   </body>
 </html>
