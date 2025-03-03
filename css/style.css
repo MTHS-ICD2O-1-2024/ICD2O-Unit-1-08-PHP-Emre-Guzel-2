@@ -23,3 +23,7 @@ body {
   margin-top: 5vw;
   margin-left: 36vw;
 }
+button{
+  background: black;
+  margin-top: 2rem;
+}
