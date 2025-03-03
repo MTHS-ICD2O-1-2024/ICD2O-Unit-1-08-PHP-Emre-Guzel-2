@@ -18,7 +18,7 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
   <link rel="manifest" href="/site.webmanifest">
   <link rel="stylesheet" href="css/style.css">
-  <title>Hello world in js </title>
+  <title>Hello world in PHP </title>
 </head>
 
 <body>
@@ -30,19 +30,18 @@
       </div>
     </header>
     <br>
-    <form class='clauclator-form' action="#">
+    <form class='clauclator-form' action="answer.php" method="GET">
       <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
         <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" id="sample4">
         <label class="mdl-textfield__label" for="sample4">Number...</label>
         <span class="mdl-textfield__error">Input is not a number!</span>
       </div>
-    </form>
     <main id="click me " class="mdl-layout__content">
-      <button onclick="Helloworld()" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">
+      <button  class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">
         Answer
       </button>
     </main>
-  </div>
+  </form>
     <img class="Calculate" src="images/clauclator.jpg" alt="">
 </body>
 </html>
