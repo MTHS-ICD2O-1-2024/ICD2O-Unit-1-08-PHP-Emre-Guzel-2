@@ -25,6 +25,7 @@
     <header class="mdl-layout__header">
       <div class="mdl-layout__header-row">
         <span class="mdl-layout-title">Calculate</span>
+        </header>
       </div>
         <form action="answer.php" method="GET">
           <div class="mdl-textfield mdl-js-textfield">
@@ -41,7 +42,6 @@
             >
             <!-- class "mdl-textfield__error" -->
             <span class="mdl-textfield__error">Input is not a number</span>
-          </div>
           <br />
           <!-- Accent-colored raised button with ripple -->
           <button
@@ -52,6 +52,5 @@
           </button>
         </form>
         <br />
-    </header>
   </body>
 </html>
