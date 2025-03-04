@@ -29,7 +29,6 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/clauclator.jpg" alt="calculator image" />
       </div>
       <div class="page-content">Hello, World in php</div>
       <br />

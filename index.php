@@ -26,14 +26,12 @@
     <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
       <header class="mdl-layout__header">
         <div class="mdl-layout__header-row">
-          <span class="mdl-layout-title">The XXX program, PHP</span>
+          <span class="mdl-layout-title">Hello world in PHP</span>
         </div>
       </header>
       <main class="mdl-layout__content">
         <div class="right-image">
-          <img class="Calculate" src="./images/clauclator.jpg" alt="laptop image" />
         </div>
-        <div class="page-content">Instructions here ...</div>
         <br />
         <!-- Simple Textfield for integers-->
         <form action="answer.php" method="GET">
