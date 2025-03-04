@@ -30,16 +30,14 @@
       </div>
     </header>
     <br>
-    <form class='clauclator-form' action="answer.php" method="GET">
-      <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-        <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" id="sample4">
-        <label class="mdl-textfield__label" for="sample4">Number...</label>
-        <span class="mdl-textfield__error">Input is not a number!</span>
-      </div>
-    <main id="click me " class="mdl-layout__content">
-      <button  class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">
-        Answer
-      </button>
+      <form action="answer.php" method="GET">
+        <br />
+        <!-- Accent-colored raised button with ripple -->
+        <button
+          class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"
+          type="submit">
+          answer
+        </button>
     </main>
   </form>
     <img class="Calculate" src="images/clauclator.jpg" alt="">
