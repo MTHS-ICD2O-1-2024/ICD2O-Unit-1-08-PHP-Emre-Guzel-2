@@ -24,12 +24,12 @@
   <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
     <header class="mdl-layout__header">
       <div class="mdl-layout__header-row">
-        <span class="mdl-layout-title">The "Hello, World!" program, PHP</span>
+        <span class="mdl-layout-title">"Hello, world in php"</span>
       </div>
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/Hello_World_Brian_Kernighan_1978.jpg" alt="laptop image" />
+        <img src="./images/clauclator.jpg" alt="calculator image" />
       </div>
       <div class="page-content">Hello, World in php</div>
       <br />
